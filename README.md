@@ -3,9 +3,12 @@ Common practices and approaches to creating open science cloud tutorials
 
 
 ## Resources
-A good resource: https://github.com/NASA-Openscapes/jupyter-tips-and-tricks forked from jbwhit:
 
-Prioritize keyboard shortcuts! 
+[How to write modules in python 3](https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3)
+
+[jupyter-tips-and-tricks](https://github.com/NASA-Openscapes/jupyter-tips-and-tricks) forked from jbwhit
+
+Notes: Prioritize keyboard shortcuts! 
 
 - Esc = deactivate cell (edit mode)
 - Ctrl + enter = run cell without advancing
